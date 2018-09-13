@@ -1,0 +1,15 @@
+{
+  "name": "testconnectivity",
+  "version": "1.0.0",
+  "description": "Small script that tests the connectivity to URL's specified on the command line",
+  "main": "testconnectivity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikkel Flindt Heisterberg, mheisterberg@salesforce.com",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "command-line-usage": "^5.0.5"
+  }
+}
