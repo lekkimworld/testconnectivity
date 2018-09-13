@@ -26,3 +26,8 @@ ERROR attemping connnection to <http://lsdfhsdlfsdflhsdfs.foo>: getaddrinfo ENOT
 Successfully connected to <https://login.salesforce.com> with response code <200> and content-type <text/html; charset=UTF-8>
 Successfully connected to <http://example.com> with response code <200> and content-type <text/html; charset=UTF-8>
 ```
+
+## Installation ##
+1. Clone the repo
+2. npm install
+3. Use
